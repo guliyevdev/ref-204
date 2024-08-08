@@ -5,7 +5,6 @@ import Footer from '../../Layout/Admin/Footer'
 import Header from '../../Layout/Admin/Header'
 
 const AdminRoot = () => {
-    // helllo world
   return (
     <div>
         <Header/>
