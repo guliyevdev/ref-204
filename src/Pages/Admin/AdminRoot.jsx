@@ -7,7 +7,6 @@ import Header from '../../Layout/Admin/Header'
 const AdminRoot = () => {
   return (
     <div>
-        {/* <AdminHome/> */}
         <Header/>
         <Outlet/>
         <Footer/>
