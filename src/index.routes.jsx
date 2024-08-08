@@ -5,7 +5,7 @@ import Edit from "./Pages/Admin/Edit";
 import Basket from "./Pages/Client/Basket";
 import Detail from "./Pages/Client/Detail";
 import Favorites from "./Pages/Client/Favorites";
-import Home from "./Pages/Client/Home";
+import {Home} from "./pages/Home";
 import MainRoot from "./Pages/Client/MainRoot";
 
 const ROUTES=[
